@@ -1,5 +1,6 @@
 ## Instituto Tecnológico de Costa Rica      
-Principios De Sistemas Operativos.
+Principios De Sistemas Operativos
+
 ### Project II                                             Group 51.
 ### Armando Lorenzo Villalta Pérez - Harold Enrique Ramirez Mora - Daniel Vargas Castro.
 #### armandovp2408@estudiantec.cr - enrique5129876@estudiantec.cr - 86097312.dv@estudiantec.cr.
